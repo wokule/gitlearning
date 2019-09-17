@@ -7,7 +7,7 @@ int main()
 {
 FILE *fp;
 int x=1234;
-fp=fopen("d:\\shiti.txt","w");
+fp=fopen("c:\\shiti.txt","w");
 if(fp==NULL)
 {
 printf("create file failed\n");
